@@ -1,0 +1,14 @@
+# Repository names under github.com/storytold; one per line.
+photocraft
+vectorcraft
+filmcraft
+lightcraft
+pdfcraft
+effectcraft
+designcraft
+wordcraft
+soundcraft
+deckcraft
+cadcraft
+gridcraft
+craft-launcher
